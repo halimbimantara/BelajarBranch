@@ -1,0 +1,7 @@
+class Mobil{
+	
+	public mobil(){
+		
+	}
+	
+}
