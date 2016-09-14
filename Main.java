@@ -9,5 +9,9 @@ class Mobil{
 	public int jumlah(int a,int b){
 		return a*b;
 	}
+	
+	public void AkuSolem(){
+		System.out.println("Pokoke Yakin");	
+	}
 
 }
